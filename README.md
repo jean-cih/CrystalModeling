@@ -50,7 +50,7 @@ pip install numpy matplotlib scikit-image
 
 2. Запустите программу:
 ```bash
-python crystal_visualizer.py
+python program.py
 ```
 
 ## Использование
