@@ -62,6 +62,6 @@ python program.py
 
 ## Примеры визуализации
 
-![Пример 3D модели кристалла](Assets/Crystal1.jpg)
+
 
 ![Пример 3D модели квазикристалла](Assets/Quasicrystal1.jpg)
